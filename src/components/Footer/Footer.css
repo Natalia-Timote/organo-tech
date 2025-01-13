@@ -1,0 +1,22 @@
+.footer-infos {
+    background-color: #6278F7;
+    color: #FFF;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 16px 0 16px 0;
+}
+
+.footer-infos ul {
+    display: flex;
+    gap: 24px;
+    list-style-type: none;
+}
+
+.footer-infos .social-media img {
+    height: 24px;
+}
+
+.footer-infos .logo img {
+    height: 48px;
+}
